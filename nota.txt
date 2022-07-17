@@ -1,0 +1,3 @@
+Readable stream = Ler dados (recebendo dados)
+Transfomr stream = É o coração de processamento dos dados
+Writable stream = Notificar, criar um arquivo
